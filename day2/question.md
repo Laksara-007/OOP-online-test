@@ -5,6 +5,8 @@ has different types of agents who is going to kill the aliens and obtain the sco
 
 a) You can refer the output given in Main class and adjust your code accordingly.
 
+![Question image](https://raw.githubusercontent.com/Laksara-007/OOP-online-test/main/day2/images/q1.jpg)
+
     i). Implement the Alien interface and declare getScore() method
     ii). Create three classes called MarshmalloAlien, OgreAlien and SnakeAlien and implement 
     the Alien interface in each class. MarshmalloAlien has 15, OgreAlien has 10 and 
